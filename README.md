@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Surya!
 
-<!--
-**suryaaswaththan/suryaaswaththan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 Independent Developer · Python Enthusiast · Explorer of New Technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+
+I'm Surya, a curious and adaptable developer with a knack for turning ideas into working code. My journey traverses Python, TypeScript, and Java, and I love diving into diverse projects that sharpen my skills and expand my perspective. Whether it's building robust backend utilities or experimenting with algorithms, I'm driven by a passion for continuous learning and clean, impactful solutions.
+
+---
+
+### 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://github.com/suryaaswaththan/suryaaswaththan/blob/output/github-snake.svg" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### ⚡ LDS &nbsp;·&nbsp; TypeScript
+A playground for exploring scalable, type-safe solutions in modern TypeScript.  
+*Experimented with modular architecture and collaborative coding patterns.*
+
+[View Repo](https://github.com/suryaaswaththan/LDS)
+
+---
+
+### 💳 Card-Validation &nbsp;·&nbsp; Java
+A robust utility to validate card numbers using the Luhn algorithm.  
+*Showcases algorithmic thinking and practical application of Java for everyday fintech needs.*
+
+[View Repo](https://github.com/suryaaswaththan/Card-Validation)
+
+---
+
+### 🧠 bfsi-assistant &nbsp;·&nbsp; Python
+A Python-based assistant prototype aimed at streamlining operations and automating tasks in BFSI domains.  
+*Focus on process automation and AI-driven enhancements (work in progress).*
+
+[View Repo](https://github.com/suryaaswaththan/bfsi-assistant)
+
+---
+
+## 📈 GitHub Stats
+
+![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryaaswaththan&show_icons=true&hide_title=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryaaswaththan&layout=compact&theme=dracula)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to new ideas, discussions, and collaboration opportunities.  
+If you're looking for someone who codes with curiosity and delivers with commitment—let's connect!  
+Feel free to [follow me](https://github.com/suryaaswaththan) or open an issue on any repo to start a conversation.
+
+---
+
+<!--  
+Let’s build something great together!  
 -->
