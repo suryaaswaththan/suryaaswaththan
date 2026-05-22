@@ -56,8 +56,8 @@ A Python-based assistant prototype aimed at streamlining operations and automati
 
 ## 📈 GitHub Stats
 
-![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryaaswaththan&show_icons=true&hide_title=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryaaswaththan&layout=compact&theme=dracula)
+![Surya's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=suryaaswaththan&show_icons=true&hide_title=true&theme=dracula)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=suryaaswaththan&layout=compact&theme=dracula)
 
 ---
 
