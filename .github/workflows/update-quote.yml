@@ -28,8 +28,8 @@ jobs:
 
       - name: 📤 Commit and push changes
         run: |
-          git config --global user.name 'selvaganesh19'
-          git config --global user.email 'selvavelayutham395@gmail.com'
+          git config --global user.name 'suryaaswaththan'
+          git config --global user.email 'suryaaswathan@gmail.com'
 
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           
