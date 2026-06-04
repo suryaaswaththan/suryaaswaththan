@@ -38,7 +38,7 @@ jobs:
           
           # Stage and commit changes if any
           git add README.md
-          git diff --cached --quiet || git commit --author="suryaaswaththan <suryaaswathan@gmail.com>" -m "🔁 Update README with daily quote"
+          git diff --cached --quiet || git commit --author="suryaaswaththan <suryaaswathan@gmail.com>" -m "Update README with daily quote"
           
           # Push changes
           git push origin main
