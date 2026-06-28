@@ -96,11 +96,13 @@ Feel free to [follow me](https://github.com/suryaaswaththan) or open an issue on
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=The%20goal%20of%20an%20artist%20is%20to%20create%20the%20definitive%20work%20that%20cannot%20be%20surpassed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=It%20only%20takes%20a%20split%20second%20to%20smile%20and%20forget%2C%20yet%20to%20someone%20that%20needed%20it%2C%20it%20can%20last%20a%20lifetime.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
