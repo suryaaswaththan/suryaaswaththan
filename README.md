@@ -107,11 +107,13 @@ Feel free to [follow me](https://github.com/suryaaswaththan) or open an issue on
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=The%20only%20thing%20more%20frustrating%20than%20slanderers%20is%20those%20foolish%20enough%20to%20listen%20to%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=A.A.%20Milne&quote=Rivers%20know%20this%3A%20there%20is%20no%20hurry.%20We%20shall%20get%20there%20some%20day.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
