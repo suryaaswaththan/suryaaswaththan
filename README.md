@@ -110,11 +110,13 @@ Feel free to [follow me](https://github.com/suryaaswaththan) or open an issue on
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=Always%20forgive%20your%20enemies%20-%20nothing%20annoys%20them%20so%20much.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carlos%20Ruiz%20Zafon&quote=Over%20time%2C%20loneliness%20gets%20inside%20you%20and%20doesn't%20go%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
