@@ -127,11 +127,13 @@ Feel free to [follow me](https://github.com/suryaaswaththan) or open an issue on
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=The%20important%20thing%20is%20not%20to%20stop%20questioning.%20Curiosity%20has%20its%20own%20reason%20for%20existing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=Give%20a%20man%20a%20fish%20and%20you%20feed%20him%20for%20a%20day.%20Teach%20a%20man%20to%20fish%20and%20you%20feed%20him%20for%20a%20lifetime.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
