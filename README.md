@@ -157,11 +157,13 @@ Feel free to [follow me](https://github.com/suryaaswaththan) or open an issue on
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=First%20comes%20the%20shy%20wish.%20Then%20you%20must%20have%20the%20heart%20to%20have%20the%20dream.%20Then%2C%20you%20work%2C%20and%20work.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=The%20only%20people%20without%20problems%20are%20those%20in%20cemeteries.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
