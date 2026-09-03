@@ -163,11 +163,13 @@ Feel free to [follow me](https://github.com/suryaaswaththan) or open an issue on
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Always%20show%20more%20kindness%20than%20seems%20necessary%20because%20the%20person%20receiving%20it%20needs%20it%20more%20than%20you%20will%20ever%20know.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=One%20beam%2C%20no%20matter%20how%20big%2C%20cannot%20support%20an%20entire%20house%20on%20its%20own.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
